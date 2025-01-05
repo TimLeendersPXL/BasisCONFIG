@@ -1,6 +1,6 @@
 Basis configuratie switch
 
-enable
+. enable
 configure terminal
 line console 0
 password pxl
